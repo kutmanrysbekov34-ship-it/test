@@ -96,7 +96,7 @@ class _CounterScreenState extends State<CounterScreen> {
                       onPressed: () {
                         // setState - сан өзгөргөнүн экранга билдирип, экрандагы маалыматты жаңылайт (кайра тартат)
                         setState(() {
-                          count++; // Санды 1ге көбөйтүү
+                          count++; // Санды 1ге көбөйтүүgit remote add origin https://github.com/kutmanrysbekov34-ship-it/test.git
                         });
                       },
                       child: const Text("+", style: TextStyle(fontSize: 24)),

@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           seedColor: const Color(0xff2563eb),
           brightness: Brightness.dark,
         ),
-        scaffoldBackgroundColor: const Color(0xfff8fafc),
+        scaffoldBackgroundColor: const Color(0xff2563ed),
         appBarTheme: const AppBarTheme(centerTitle: true, elevation: 0),
       ),
       home: HomePage(),
